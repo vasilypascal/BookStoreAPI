@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdB7uYgZ0LuS9hpdpo3sv7xTy7PvAGBzYChymeNq7riOqn5Zml1jCXlsOrcm8zg+L5SaMkvBJB6aXrIW/1BpOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vpascal\\source\\repos\\BookStoreAPI\\BookStoreAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpascal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
