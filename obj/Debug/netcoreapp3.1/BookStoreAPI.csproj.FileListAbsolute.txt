@@ -2,7 +2,6 @@ C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\appsettings.D
 C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\BookStoreAPI.exe
-C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.csprojAssemblyReference.cache
 C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.AssemblyInfoInputs.cache
 C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.AssemblyInfo.cs
 C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.RazorTargetAssemblyInfo.cache
@@ -49,3 +48,18 @@ C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-
 C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\BookStoreAPI.deps.json
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\BookStoreAPI.runtimeconfig.json
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\BookStoreAPI.runtimeconfig.dev.json
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\BookStoreAPI.dll
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\BookStoreAPI.pdb
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.dll
+C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.pdb
+C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.genruntimeconfig.cache
+C:\Users\vpascal\source\repos\BookStoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vpascal\source\repos\BookStoreAPI\obj\Debug\netcoreapp3.1\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cache
