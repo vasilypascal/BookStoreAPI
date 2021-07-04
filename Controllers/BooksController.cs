@@ -6,6 +6,7 @@ using BookStoreAPI.Models;
 using BookStoreAPI.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace BookStoreAPI.Controllers
 {
@@ -21,26 +22,26 @@ namespace BookStoreAPI.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<Book>> GetBooks()
+        public async Task<IEnumerable<BookDTO>> GetBooks()
         {
             return await _bookRepository.GetAll();
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Book>> GetBook(int id)
+        public async Task<ActionResult<BookDTO>> GetBook(int id)
         {
             return await _bookRepository.Get(id);
         }
 
         [HttpPost]
-        public async Task<ActionResult<Book>> GetBook([FromBody]Book book)
+        public async Task<ActionResult<BookDTO>> PostBook([FromBody] BookDTO book)
         {
             var newBook = await _bookRepository.Create(book);
             return CreatedAtAction(nameof(GetBooks), new { id = newBook.Id });
         }
 
         [HttpPut]
-        public async Task<ActionResult> PutBooks(int id, [FromBody] Book book)
+        public async Task<ActionResult> PutBooks(int id, [FromBody] BookDTO book)
         {
             if (id != book.Id)
             {

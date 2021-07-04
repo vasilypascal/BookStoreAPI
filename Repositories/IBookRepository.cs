@@ -8,10 +8,10 @@ namespace BookStoreAPI.Repositories
 {
     public interface IBookRepository
     {
-        Task<IEnumerable<Book>> GetAll();
-        Task<Book> Get(int id);
-        Task<Book> Create(Book book);
-        Task Update(Book book);
+        Task<IEnumerable<BookDTO>> GetAll();
+        Task<BookDTO> Get(int id);
+        Task<BookDTO> Create(BookDTO book);
+        Task Update(BookDTO book);
         Task Delete(int id);
     }
 }
